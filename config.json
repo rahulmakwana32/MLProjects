@@ -1,0 +1,11 @@
+{
+    "start_date": "2026-01-11",
+    "email_to": "eb@example.com",
+    "email_from": "your_email@gmail.com",
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "smtp_user": "your_email@gmail.com",
+    "smtp_password": "your_app_password",
+    "study_time_start": "21:00",
+    "study_time_end": "00:00"
+}
